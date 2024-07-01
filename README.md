@@ -6,7 +6,7 @@ Please fork this repository and send us your answer. Remember to provide us rele
 
 ## Brief: Kanban Board Bookings
 
-At Hello, our operations team have to manage new bookings. We have a form to enter the member's details:
+An online mental health clinic is building a new board to allow its operations team to keep track of new bookings. They have a basic form to enter the member's details onto the board:
 
 - Name
 - Title
