@@ -31,18 +31,20 @@ The final design of the board is:
 
 1. Please add validations to the member form, and relevant error and helper messages.
 2. Once 'Submit' is pressed, a card will be created on under _Unclaimed_ column.
-3. The card will contain all the details requested from the form.
-4. Please save new card to _local storage_.
+3. The card will contain all the details entered into the form.
+4. Please save new card data to _local storage_.
 5. Previous entered cards will reload onto the board as saved in _local storage_.
 6. Please add styling to the form and page.
 
 ## Bonus: Tasks
 
-If you have time and feeling adventurous feel free to implement the bonus tasks listed below.
+If you have time and are feeling adventurous feel free to implement the bonus tasks listed below.
 
 1. Implement the drag and drop of the cards to different columns.
 2. Each column must indicate the number of cards.
 3. Please add styling to the board and page.
+
+If you don't have time, that's fine. During the interview, we will discuss strategies that you might have used to achieve these.
 
 ## Review Interview
 
