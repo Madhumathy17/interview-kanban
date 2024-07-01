@@ -27,7 +27,7 @@ This is what the board currently looks like:
 The final design of the board is:
 ![final-board](public/final-board.png)
 
-## Stack
+## How to Start
 
 This is a simple create-react-app application, the instructions on how to run can be found in [here](CONTRIBUTING.md).
 We are using pure React here with styling done in pure CSS, but feel free to approach this however you want. If you want to use libraries, we encourage you to - there is no right or wrong answer here! We use tailwind and styled-components for styling internally, but we don't expect you to be familiar with these up front.
