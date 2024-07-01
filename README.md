@@ -1,6 +1,6 @@
 # Take Home Exercise
 
-Thank you for taking the time to do this exercise. Please spend no longer than an hour on the below. If you enjoy the excercise and would like to continue, we would be delighted to interview. We will spend the first part of your interview discussing this work.
+Thank you for taking the time to do this exercise. Please spend no longer than an hour on the below. If you enjoy the exercise and would like to continue, we would be delighted to interview. We will spend the first part of your interview discussing this work.
 
 Please fork this repository and send us your answer. Remember to provide us relevant permission to access the repository.
 
@@ -21,7 +21,7 @@ The board has 4 columns:
 - **Preparing Work Offer**: searching for Therapist
 - **Send to Therapist**: matched with Therapist
 
-This is what the board currenlty looks like:
+This is what the board currently looks like:
 ![initial-board](public/initial-board.png)
 
 The final design of the board is:
