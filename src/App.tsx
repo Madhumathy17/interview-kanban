@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <b>HelloSelf Trello Board</b>
+        <b>Kanban Board</b>
       </header>
 
       <div className="App-content">
