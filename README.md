@@ -54,3 +54,22 @@ If you don't have time, that's fine. During the interview, we will discuss strat
 
 The final design of the board should look like this:
 ![final-board](public/final-board.png)
+
+## Third party libraries used
+
+1. Redux - Used for global state management.
+2. Lodash/debounce - used to run a function every 500ms to update the local storage from the redux state.
+
+## Further improvements
+
+1. More styling of the form and the layout of the form.
+   eg : the form can be shown on click of a add contact button and the button can be placed on the 'Unclaimed' container.
+2. Unit testing - some example test cases,
+   a. Component renders as expected.
+   b. Ensure local storage is used on reload, updated everytime on addition of new contact and update of status.
+   c. Ensure newly added contact always ends up in the unclaimed container.
+   d. Validation of input fields (edge cases for empty string, string with spaces, invalid age, invalid email format & invalid phone number).
+3. Third party libraries can be used for validating email and phone numbers as regex is not good in terms of performance.
+4. Styling framework such as material-ui can be used.
+5. Device compatible styling to support display across different screen sizes.
+6. Vulnerabilities to be addressed.
